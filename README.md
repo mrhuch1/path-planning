@@ -42,7 +42,7 @@
 4. Clone the reposity.
 
     ```bash
-    git clone https://github.com/ai-winter/ros_motion_planning.git
+    git clone https://github.com/mrhuch1/path-planning.git
     ```
 
 5. Compile the code.
